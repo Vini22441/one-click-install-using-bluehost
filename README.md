@@ -39,7 +39,7 @@ Many people have heard of the "Famous Five Minute Install" with WordPress. Now t
 1.  Navigate to the MOJO Marketplace section inside cPanel.
 2.  Click the "One-Click Installs" icon.
 
-    <figure>![One-Click Installs](https://tutorials.bluehost.com/help_media//_bh/mojo-one-click-installs.png)</figure>
+    ![One-Click Installs](https://tutorials.bluehost.com/help_media//_bh/mojo-one-click-installs.png)
 
 3.  Choose "WordPress." Note that the WordPress version shown in the images may not be the most current version. For the most current version see [here](https://wordpress.org/).
 
