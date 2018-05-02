@@ -43,19 +43,19 @@ Many people have heard of the "Famous Five Minute Install" with WordPress. Now t
 
 3.  Choose "WordPress." Note that the WordPress version shown in the images may not be the most current version. For the most current version see [here](https://wordpress.org/).
 
-    <figure>![WordPress Icon](https://tutorials.bluehost.com/help_media/mojo-wordpress.png)</figure>
+    ![WordPress Icon](https://tutorials.bluehost.com/help_media/mojo-wordpress.png)
 
 4.  Click the "Install" button.
 
-    <figure>![Start a brand new installation](https://tutorials.bluehost.com/help_media/mojo-install-button.png)</figure>
+    ![Start a brand new installation](https://tutorials.bluehost.com/help_media/mojo-install-button.png)
 
 5.  Choose the domain name to install it to.
 
-    <figure>![Select installation domain](https://tutorials.bluehost.com/help_media/mojo-select-domain.png)</figure>
+    ![Select installation domain](https://tutorials.bluehost.com/help_media/mojo-select-domain.png)
 
     In the field next to the domain, you can enter a subfolder such as 'blog' or leave it blank if you want the site's main page to be the blog.
 6.  If necessary, you can edit the email address, username and password for the new Wordpress installation. Click "advanced options" and you can change those settings.
 7.  Read through the license and service agreements and check the boxes.
 8.  Select the "Install Now" button. Note, that you will need to agree to the terms and conditions prior to installation.
 
-    <figure>![Install Now button](https://tutorials.bluehost.com/help_media//mojo-install-now.png)</figure>
+    ![Install Now button](https://tutorials.bluehost.com/help_media//mojo-install-now.png)
